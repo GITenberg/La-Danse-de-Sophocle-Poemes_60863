@@ -1,5 +1,8 @@
 _repo: La-Danse-de-Sophocle-Poemes_60863
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60863-h/images/sophocle_cover.jpg
 creator:
   author:
     agent_name: Cocteau, Jean
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Cocteau
     - https://en.wikipedia.org/wiki/Jean_Cocteau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60863#La-Danse-de-Sophocle-Poemes
 gutenberg_issued: '2019-12-06'
 gutenberg_type: Text
 identifiers:
